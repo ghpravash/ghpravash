@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pravash Ghimire</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghpravash&label=Profile%20views&color=0e75b6&style=flat" alt="ghpravash" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghpravash" alt="ghpravash" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ghpravash" target="blank"><img src="https://img.shields.io/twitter/follow/ghpravash?logo=twitter&style=for-the-badge" alt="ghpravash" /></a> </p>
-
 - 🔭 I’m currently working on **Cyber Security Projects**
 
 - 💬 Ask me about **JavaScript, ReactJS, Python**
